@@ -32,7 +32,7 @@ The markup tree provided by this package is comprised of immutable/persistent, t
   end
 
   # Dependencies
-  s.dependency 'swift-cmark-pod'
+  s.dependency 'swiftCmarkPod'
   
   # Module name (must be valid C99 identifier)
   s.module_name   = 'Markdown'
