@@ -21,7 +21,6 @@ The markup tree provided by this package is comprised of immutable/persistent, t
   s.source_files = 'Sources/Markdown/**/*.swift'
   
   # CAtomic module
-  s.dependency 'swiftMarkdownPod/CAtomic'
   s.subspec 'CAtomic' do |atomic|
     atomic.source_files = 'Sources/CAtomic/**/*.{c,h}'
     atomic.public_header_files = 'Sources/CAtomic/include/*.h'
