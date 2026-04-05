@@ -8,7 +8,6 @@
  See https://swift.org/CONTRIBUTORS.txt for Swift project authors
 */
 import cmark_gfm
-import cmark_gfm_extensions
 /** 用swift_cmark_pod替代 cmark_gfm 和 cmark_gfm_extensions
 import cmark_gfm
 import cmark_gfm_extensions
